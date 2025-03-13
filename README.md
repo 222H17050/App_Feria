@@ -1,6 +1,6 @@
 # Proyecto
 
-El código está comentado en los **[Texto del enlace](https://github.com/222H17050/Prax/releases)**, donde también se encuentra la aplicación.
+El código está comentado en los **[Releases](https://github.com/222H17050/Prax/releases)**, donde también se encuentra la aplicación.
 
 ## Vista Previa (Preview)
 
