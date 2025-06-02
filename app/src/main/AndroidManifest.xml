@@ -11,14 +11,13 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppFeria"
         android:usesCleartextTraffic="false"
-        tools:targetApi="31" />
+        tools:ignore="DataExtractionRules"
+        tools:targetApi="31" /><![CDATA[
 
-    <!-- Metadatos específicos para F-Droid -->
-    <meta-data
+    ]]><meta-data
         android:name="com.fdroid.fdroid"
         android:value="true" />
 
-    <!-- Metadatos opcionales (personaliza según tu app) -->
     <meta-data
         android:name="app.version"
         android:value="@string/version_name" />
