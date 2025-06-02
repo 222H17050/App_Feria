@@ -1,1 +1,14 @@
-Este proyecto ha sido creado con fines de aprendizaje para alumnos de la UJAT
+# 🎪 FeriaTabasco App
+
+**Aplicación oficial** (o no oficial) para mantenerte informado sobre todo lo que ocurre en la Feria de Tabasco. Eventos, conciertos, fechas y más en tiempo real.
+
+## 📱 Características Principales
+- 🎶 **Conciertos**: Artistas confirmados, horarios y ubicaciones.
+- 📅 **Calendario de Eventos**: Ferias gastronómicas, exposiciones y actividades culturales.
+- 🗺️ **Mapa Interactivo**: Ubicación de stands, servicios y atracciones.
+- 🔔 **Notificaciones**: Alertas sobre eventos importantes o cambios de última hora.
+- 🌟 **Favoritos**: Guarda los eventos que no quieres perderte.
+
+1. **Desde código fuente**:
+   git clone https://github.com/222H17050/Prax.git
+   Abre el proyecto en Android Studio
