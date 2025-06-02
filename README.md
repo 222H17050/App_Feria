@@ -5,7 +5,4 @@
 ## 📱 Características Principales
 - 🎶 **Conciertos**: Artistas confirmados, horarios y ubicaciones.
 - 📅 **Calendario de Eventos**: Ferias gastronómicas, exposiciones y actividades culturales.
-- 🗺️ **Mapa Interactivo**: Ubicación de stands, servicios y atracciones.
-- 🔔 **Notificaciones**: Alertas sobre eventos importantes o cambios de última hora.
-- 🌟 **Favoritos**: Guarda los eventos que no quieres perderte.
 
