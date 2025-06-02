@@ -1,6 +1,6 @@
-# 🎪 FeriaTabasco App
+# 🎪 App Feria
 
-**Aplicación oficial** (o no oficial) para mantenerte informado sobre todo lo que ocurre en la Feria de Tabasco. Eventos, conciertos, fechas y más en tiempo real.
+**Aplicación no oficial** para mantenerte informado sobre todo lo que ocurre en la Feria de Tabasco. Eventos, conciertos, fechas y más en el movil.
 
 ## 📱 Características Principales
 - 🎶 **Conciertos**: Artistas confirmados, horarios y ubicaciones.
